@@ -1,0 +1,14 @@
+body{
+    background-color: crimson;
+}
+#container{
+    border: blue solid;
+    border-radius: 20px;
+    width: 50%;
+    background-color: darkgreen;
+}
+
+#submit:hover{
+    color: darkgreen;
+    background-color: darkslateblue;
+}
